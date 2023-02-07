@@ -39,17 +39,17 @@ name:vault-auth-methods-2
 <div style="float: left; width: 50%;">
 <u>Methods for Users</u>
 <ul>
-<li>**Userpass**</li>
+<li><b>Userpass</b></li>
 <li>GitHub</li>
-<li>Token</li>
+ <li><b>Token</b></li>
 <li>**JWT/OIDC**</li>
 </ul>
 </div>
 <div style="float: right; width: 50%;">
 <u>Methods for Applications</u>
 <ul>
-<li>**AppRole**</li>
-<li>Token</li>
+<li><b>AppRole</b></li>
+<li><b>Token</b></li>
 <li>AWS</li>
 <li>Azure</li>
 <li>Google Cloud</li>
