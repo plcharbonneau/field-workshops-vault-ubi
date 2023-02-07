@@ -37,14 +37,13 @@ name: vault-secrets-engines-1
 ---
 name:vault-secrets-engines-2
 # Important Vault Secrets Engines
-* Key/Value (KV)
+* **Secret, Key/Value (KV)**
 * PKI
 * SSH
-* TOTP
 * Databases
 * AWS, Azure, and Google
 * Active Directory
-* Transit
+* **Transit**
 
 ???
 Spend some time pointing out what some of these do:
