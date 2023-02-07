@@ -66,8 +66,7 @@ name: instruqt-tracks
 # Lab Environment Used
 * This workshop uses [Instruqt](https://instruqt.com) for hands-on labs.
 * Instruqt labs are run in "tracks" that are divided into "challenges".
-* This workshop uses the following tracks:
-    1. **Vault Basics**
+* This workshop uses the following track: **Vault Basics**
 * We'll cover chapters 1-6 and then do the lab.
 
 Your instructor will provide the URLs for the tracks.
