@@ -53,7 +53,7 @@ name: Table-of-Contents
 
 1. HashiCorp Vault Overview
 1. Interacting with Vault
-1. Running a Production Server - Done by cifra
+1. Running a Production Server - Skipped (handled by cifra)
 1. Vault Secrets Engines
 1. Vault Authentication Methods
 1. Vault Policies
