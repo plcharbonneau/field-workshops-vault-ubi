@@ -68,10 +68,6 @@ name: instruqt-tracks
 * Instruqt labs are run in "tracks" that are divided into "challenges".
 * This workshop uses the following tracks:
     1. **Vault Basics**
-    1. **Vault Dynamic Database Credentials**
-    1. **Vault Encryption as a Service**
-* We'll cover chapters 1-6 and then do the first lab.
-* We'll then cover chapter 7 with the second lab.
-* We'll finish with chapter 8 and the third lab.
+* We'll cover chapters 1-6 and then do the lab.
 
 Your instructor will provide the URLs for the tracks.
