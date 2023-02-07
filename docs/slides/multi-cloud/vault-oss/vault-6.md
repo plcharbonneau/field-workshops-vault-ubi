@@ -72,6 +72,8 @@ path "lob_a/dept_1/*" {
 ???
 * Talk about how many organizations organize Vault secrets by line of business and department.
 * Explain the policy including the glob character and that it can only be used at the end of a path.
+* Exemples: de policy avec wildcards: 
+https://docs.rome.ubisoft.org/cifra/getting-started/admin/write-policies/#policy-basics
 
 ---
 name: vault-policy-commands
