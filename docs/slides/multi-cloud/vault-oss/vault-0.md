@@ -53,10 +53,12 @@ name: Table-of-Contents
 
 1. HashiCorp Vault Overview
 1. Interacting with Vault
+1. Namespaces
 1. Running a Production Server - Skipped (handled by cifra)
 1. Vault Secrets Engines
 1. Vault Authentication Methods
 1. Vault Policies
+1. Future labs
 
 ???
 The table of contents for the workshop
