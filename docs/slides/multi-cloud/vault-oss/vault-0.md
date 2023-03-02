@@ -27,7 +27,7 @@ name: Link-to-Slide-Deck
 <br><br>
 ### Follow along on your own computer at this link:
 
-https://hashicorp.github.io/field-workshops-vault/slides/multi-cloud/vault-oss/index.html
+https://tinyurl.com/337k55zr
 
 ???
 
@@ -37,10 +37,9 @@ The link to this slide deck
 name: Introductions
 # Introductions
 
-* Your Name
-* Job Title
-* Secrets Management Experience
-* Favorite Text Editor
+* Pier-Luc Charbonneau
+* Sr SE
+* pier-luc@hashicorp.com
 
 ???
 * Use this slide to introduce yourself, give a little bit of your background story, then go around the room and have all your participants introduce themselves.
