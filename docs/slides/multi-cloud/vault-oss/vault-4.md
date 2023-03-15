@@ -83,7 +83,9 @@ name: vault-kv-engine
   * KV v2 (with versioning)
 * In the second lab challenge, we will use the instance of the KV v2 engine that is automatically enabled for "Dev" mode Vault servers.
 * Vault does not enable any instances of the KV secrets engine for "Prod" mode servers.
-* So, you'll need to enable it yourself.
+* So, you'll need to enable it yourself if deploying a cluster yourself.
+* Ubisoft already provides KV when a new environment is deployed: secret/ is your project’s default v1 key-value secrets engine
+kv/ is your project’s default v2 key-value secrets engine
 
 ???
 * We will use Vault's Key/Value (KV) engine in the second challenge of the "Vault Basics" Instruqt track that will be automatically enabled for the "Dev" mode server.
