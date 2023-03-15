@@ -39,10 +39,10 @@ name:vault-auth-methods-2
 <div style="float: left; width: 50%;">
 <u>Methods for Users</u>
 <ul>
-<li><b>Userpass</b></li>
+<li><b>Userpass (for discovery/training purposes)</b></li>
 <li>GitHub</li>
  <li><b>Token</b></li>
-<li>**JWT/OIDC**</li>
+<li><b>JWT/OIDC</b> (Azure AD, Gitlab)</li>
 </ul>
 </div>
 <div style="float: right; width: 50%;">
